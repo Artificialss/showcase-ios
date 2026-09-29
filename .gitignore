@@ -45,3 +45,10 @@ Carthage/Build/
 *.keystore
 service-account*.json
 keystore.properties
+
+# Environment files (real values live only here, never in git)
+.env.local
+.env.*.local
+
+# OS and editor noise
+Thumbs.db

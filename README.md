@@ -6,9 +6,9 @@
 
 A small, standalone native iOS app demonstrating our mobile engineering: **Swift + SwiftUI**, **MVVM with Clean
 Architecture**, and the modern `@Observable` state pattern — the iOS counterpart to
-[Showcase.Android](https://github.com/Artificialss/Showcase.Android).
+[Showcase.Android](https://github.com/Artificialss/showcase-android).
 
-It recreates the same Hero and Portfolio content shown on [Showcase.NextJS](https://github.com/Artificialss/Showcase.NextJS),
+It recreates the same Hero and Portfolio content shown on [Showcase.NextJS](https://github.com/Artificialss/showcase-nextjs),
 adapted to native iOS conventions: a `TabView` bottom bar, a swipeable auto-advancing pager, and SF Symbols —
 no backend, no credentials.
 

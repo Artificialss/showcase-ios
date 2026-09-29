@@ -11,28 +11,28 @@ struct PortfolioMockGenerator {
                 title: "Showcase.iOS",
                 subtitle: "This app's own source — native SwiftUI, MVVM, and Clean Architecture.",
                 tags: ["Swift", "SwiftUI", "MVVM"],
-                url: URL(string: "https://github.com/Artificialss/Showcase.iOS")!
+                url: URL(string: "https://github.com/Artificialss/showcase-ios")!
             ),
             PortfolioItem(
                 id: "showcase-android",
                 title: "Showcase.Android",
                 subtitle: "Native Kotlin, Jetpack Compose, MVVM, and Clean Architecture with Koin.",
                 tags: ["Kotlin", "Jetpack Compose", "MVVM"],
-                url: URL(string: "https://github.com/Artificialss/Showcase.Android")!
+                url: URL(string: "https://github.com/Artificialss/showcase-android")!
             ),
             PortfolioItem(
                 id: "showcase-cmm",
                 title: "Showcase.CMM",
                 subtitle: "Compose Multiplatform showcase app for Android & iOS — MVP architecture, custom Canvas charts.",
                 tags: ["Kotlin", "Compose Multiplatform", "MVP"],
-                url: URL(string: "https://github.com/Artificialss/Showcase.CMM")!
+                url: URL(string: "https://github.com/Artificialss/showcase-cmm")!
             ),
             PortfolioItem(
                 id: "showcase-nextjs",
                 title: "Showcase.NextJS",
                 subtitle: "A standalone Next.js landing page adapted from our real design system.",
                 tags: ["Next.js", "TypeScript", "Tailwind"],
-                url: URL(string: "https://github.com/Artificialss/Showcase.NextJS")!
+                url: URL(string: "https://github.com/Artificialss/showcase-nextjs")!
             ),
             PortfolioItem(
                 id: "papasar",
